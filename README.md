@@ -1,0 +1,2 @@
+# FridaScripts
+FRIDA Scripts? наверное.
