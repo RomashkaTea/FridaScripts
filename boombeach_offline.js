@@ -1,4 +1,4 @@
-// This script by PhoenixFire, it's obfuscated but i deobfuscate it.
+// This script by PhoenixFire, it's obfuscated but i deobfuscate it. (version: unk)
 
 const base = Module.findBaseAddress("libg.so");
 
