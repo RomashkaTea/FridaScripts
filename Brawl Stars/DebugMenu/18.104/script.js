@@ -308,4 +308,4 @@ Interceptor.attach(Module.findExportByName('libc.so', 'connect'), {
 	}
 });
 
-toast("Script by Romashka#4626");
+toast("Script by Romashka#3551");
